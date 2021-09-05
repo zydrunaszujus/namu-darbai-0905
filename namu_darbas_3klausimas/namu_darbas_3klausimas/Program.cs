@@ -8,9 +8,18 @@ namespace namu_darbas_3klausimas
         {
             for (char i = 'a'; i <= 'z'; i++)
             {
-              Console.WriteLine(i);
+              Console.Write(i);
             }
-            
+            for (int i = 0; i<100; i++)
+			{
+                Console.WriteLine("Zydrunas");
+			}
+        
+        
+        
+        
         }
+        
+        
     }
 }
