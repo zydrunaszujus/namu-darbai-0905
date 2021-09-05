@@ -1,0 +1,14 @@
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.csproj.AssemblyReference.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.AssemblyInfoInputs.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.AssemblyInfo.cs
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.csproj.CoreCompileInputs.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.exe
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.deps.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.runtimeconfig.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.runtimeconfig.dev.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.dll
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\bin\Debug\netcoreapp3.1\namu_darbas_3klausimas.pdb
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.dll
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.pdb
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\namu-darbai-0905\namu_darbas_3klausimas\namu_darbas_3klausimas\obj\Debug\netcoreapp3.1\namu_darbas_3klausimas.genruntimeconfig.cache
